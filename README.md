@@ -1,6 +1,6 @@
 ### Hello World 👋
 - 🔭 I’m currently working on a desktop game in C#
-- 🌱 I’m currently learning Software Testing
+- 🌱 I’m currently learning Software Development
 - ⚡ Fun fact: Kölsch is the local beer in Cologne
 <!--
 **IanEarnest/IanEarnest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
