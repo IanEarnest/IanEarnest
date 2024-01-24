@@ -1,5 +1,5 @@
 ### Hello World 👋
-- 🔭 I’m currently working on a desktop game in C#
+- 🔭 I’m currently working in C# with Blazor and .NET Core
 - 🌱 I’m currently learning Software Development
 - ⚡ Fun fact: Kölsch is the local beer in Cologne
 <!--
