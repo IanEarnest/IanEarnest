@@ -1,7 +1,8 @@
 ### Hello World 👋
 - 🔭 I’m currently working in C# with Blazor and .NET Core
-- 🌱 I’m currently learning Software Development
-- ⚡ Fun fact: Kölsch is the local beer in Cologne
+- 🌱 I’m always learning Software Development
+- ⚡ Projects: Solving Renewable Energy problems
+- ✨ Fun fact: Kölsch is the local beer in Cologne
 <!--
 **IanEarnest/IanEarnest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
